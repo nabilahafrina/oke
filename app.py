@@ -554,7 +554,7 @@ msds_data = {
             "penanganan": "Jauhkan dari api dan sumber panas.",
             "penyimpanan": "Simpan dalam botol tertutup rapat.",
             "p3k": "Pastikan ventilasi baik dan bawa ke udara segar.",
-            "link": "#"
+            "link": "https://www.sigmaaldrich.com/ID/en/sds/sigald/179124"
     },
         "Benzena": {
             "nama": "Benzena",
@@ -562,7 +562,7 @@ msds_data = {
             "penanganan": "Gunakan masker dan alat pelindung diri lengkap.",
             "penyimpanan": "Simpan di tempat dingin dan berventilasi.",
             "p3k": "Segera cari bantuan medis jika terpapar.",
-            "link": "#"
+            "link": "https://www.scribd.com/document/473505991/Benzene-MSDS"
     },
         "Toluena": {
             "nama": "Toluena",
@@ -570,7 +570,7 @@ msds_data = {
             "penanganan": "Gunakan di area berventilasi baik.",
             "penyimpanan": "Simpan dalam botol gelap yang tertutup rapat.",
             "p3k": "Pindahkan ke udara segar jika terpapar.",
-            "link": "#"
+            "link": "https://www.fishersci.com/store/msds?countryCode=US&language=en&partNumber=AC326980010&productDescription=TOLUENE&vendorId=VN00033901"
     },
         "Xilena": {
             "nama": "Xilena",
@@ -578,7 +578,7 @@ msds_data = {
             "penanganan": "Gunakan pelindung pernapasan dan APD.",
             "penyimpanan": "Simpan di tempat kering dan tertutup.",
             "p3k": "Pindahkan ke udara segar.",
-            "link": "#"
+            "link": "https://www.pcs.com.sg/wp-content/uploads/2017/04/PCS08006.pdf"
     },
         "Kloroform": {
             "nama": "Kloroform",
@@ -586,7 +586,7 @@ msds_data = {
             "penanganan": "Gunakan masker uap organik dan APD.",
             "penyimpanan": "Simpan dalam botol gelap, jauh dari cahaya.",
             "p3k": "Bawa ke IGD segera jika terpapar.",
-            "link": "#"
+            "link": "https://www.sigmaaldrich.com/ID/en/sds/SIAL/288306"
     },
         "Diethyl Ether": {
             "nama": "Dietil Eter",
