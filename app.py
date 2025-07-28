@@ -763,6 +763,8 @@ elif st.session_state.halaman == 2:
     ### 📚 Sumber Informasi
     Data bahan kimia diambil dan disederhanakan dari sumber-sumber terpercaya seperti:
     - MSDS resmi 
+    MSDS adalah singkatan dari Lembar Data Keselamatan Bahan (Material Safety Data Sheet). MSDS adalah dokumen yang berisi informasi rinci tentang suatu bahan kimia atau produk yang mengandung bahan berbahaya. Informasi ini mencakup potensi bahaya (kesehatan, kebakaran, reaktivitas, dan lingkungan), serta cara penanganan, penyimpanan, dan pembuangan yang aman
+
     - Lembaga keselamatan kerja 
     """)
     col1, col2 = st.columns(2)
